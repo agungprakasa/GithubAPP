@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Dicodingsub2</string>
+    <string name="fotoprofile">Foto Profile</string>
+    <string name="Username">USERNAME</string>
+    <string name="isiusername">usernamefield</string>
+    <string name="name">NAME</string>
+    <string name="isiname">namefield</string>
+    <string name="loc">LOCATION</string>
+    <string name="isiloc">locfield</string>
+    <string name="company">COMPANY</string>
+    <string name="isicompany">companyfield</string>
+    <string name="repository">Repository</string>
+    <string name="button1">button1</string>
+    <string name="follower">Follower</string>
+    <string name="button2">button2</string>
+    <string name="following">Following</string>
+    <string name="button3">button3</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masukkan Kata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AddToFavorit">Favorit</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="setting_reminder">Setting Reminder</string>
+    <string name="alarm">Alarm</string>
+
+    <string name="one_time_alarm">One Time Alarm</string>
+    <string name="alarm_date">Tanggal Alarm</string>
+    <string name="set_one_time_alarm">Set One Time Alarm</string>
+    <string name="alarm_message">Pesan Alarm</string>
+    <string name="repeating_alarm">Repeating Alarm</string>
+    <string name="set_repeating_alarm">Set Repeating Alarm</string>
+    <string name="cancel_alarm">Batalkan Alarm</string>
+    <string name="alarm_time">Waktu Alarm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

@@ -1,0 +1,3 @@
+include ':consumeapp'
+include ':app'
+rootProject.name = "Dicodingsub2"
